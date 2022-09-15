@@ -2,7 +2,7 @@
 
 Projeto feito para o desafio front-end da empresa Devio.
 
-## Deploy
+# Deploy
 
 https://fastfooddevio.herokuapp.com/
 
