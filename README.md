@@ -10,7 +10,7 @@ https://fastfooddevio.herokuapp.com/
 
 Levei cerca de 5 dias para desenvolver o deploy. Ainda não consegui implementar todas as funcionalidades do desafio, principalmente os bônus, então considero um projeto em construção. Contudo, a maioria das histórias de usuário já estão funcionando. 
 
-### Unitilzei
+### Utilizei
 - React JS
 - TypeScript
 
