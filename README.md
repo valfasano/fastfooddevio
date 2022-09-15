@@ -1,6 +1,6 @@
 # Fast Food / Front-end
 
-Projeto feito para o desafio front-end da empresa Devio.
+Projeto feito para o desafio Front-end da empresa Devio.
 
 # Deploy
 
