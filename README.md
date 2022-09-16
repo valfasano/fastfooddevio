@@ -37,8 +37,7 @@ Um restaurante precisa poder registrar suas vendas de forma fácil e rápida, es
 - A cozinha poderá dar baixa nos pedidos concluídos.
 
 ### Histórias Bônus (opcionais) 
-Os pedidos devem aparecer para a cozinha em tempo real.
-Obs: Utilização de Long Pooling ou WebSockets facilitam a solução.
-O usuário poderá incluir uma observação a cozinha.
-O usuário poderá atribuir múltiplas formas de pagamento na finalização do pedido.
-Os pedidos baixados devem aparecer em uma tela com o nome do cliente, apitando para ser feito a retirada.
+- Os pedidos devem aparecer para a cozinha em tempo real. (Obs: Utilização de Long Pooling ou WebSockets facilitam a solução.)
+- O usuário poderá incluir uma observação a cozinha.
+- O usuário poderá atribuir múltiplas formas de pagamento na finalização do pedido.
+- Os pedidos baixados devem aparecer em uma tela com o nome do cliente, apitando para ser feito a retirada.
